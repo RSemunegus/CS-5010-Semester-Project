@@ -3,8 +3,8 @@
 ###### mkd8bb, rzs5yf, akc6be
 Group 5
  
-INTRODUCTION
-Our purpose of analyzing this data set is to detect trends and patterns of the NBA over the last 20 years. We want to understand how teams and players have changed over time and how that may impact future seasons. 
+** INTRODUCTION **
+* Our purpose of analyzing this data set is to detect trends and patterns of the NBA over the last 20 years. We want to understand how teams and players have changed over time and how that may impact future seasons. *
  
 THE DATA
 Our data set will come from the NBA Team Stats from espn.com for seasons 2001-2020. This data set will include statistics about each team in the NBA as well as the statistics for each player on each team. We chose this data set because we wanted to understand how teams and players performed over time. In addition, working with sports data allows us to derive interesting trends that we can compare to a real world application. We plan to webscrape espn.com in order to obtain this data, so we will not need to carry out any data cleaning since it is already in a clean and organized format. If there are any outliers or missing information, we will perform the necessary data cleaning. 
